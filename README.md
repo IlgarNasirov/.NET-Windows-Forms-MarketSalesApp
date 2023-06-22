@@ -1,2 +1,2 @@
-This is a market sales desktop project. There are admin and seller roles. The admins can do all CRUD operations on products and sellers and follow all sales. The 
-sellers can do all CRUD operations on products which located in the checkout. Then, they can sell them. The seller can also print receipt of sales. You need to add SQL backup file to your Microsoft SQL Server application for using this project. I used ADO.NET(for connecting database) and Microsoft SQL Server(as database).
+This is a market sales desktop project. There are admin and seller roles. The admins can do all CRUD operations on products, sellers and follow all sales. The 
+sellers can do all CRUD operations on products which located in the checkout. Then, they can sell them. The seller can also print receipt of sales. You need to add SQL backup file to your Microsoft SQL Server application for using this project. I used ADO.NET(for connecting database) and Microsoft SQL Server(as a database).
